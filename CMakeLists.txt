@@ -173,6 +173,7 @@ set(v1.0Definitions
     ASLUAV.xml
     ardupilotmega.xml
     common.xml
+    development.xml
     matrixpilot.xml
     minimal.xml
     paparazzi.xml
